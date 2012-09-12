@@ -1,0 +1,10 @@
+{
+	"auto_upgrade_last_run": 1347119627,
+	"installed_packages":
+	[
+		"Alignment",
+		"IcedCoffeeScript",
+		"Package Control",
+		"Tag"
+	]
+}
